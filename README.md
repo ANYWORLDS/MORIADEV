@@ -820,15 +820,15 @@ File Name: "MORIAPROJECT.Moria.we must do.» —Goethe.txt"
 
 BizHub BizGamesHub
 
-{{{
+```
 <назгулы> RoinesRodimop, [круто] было бы сделать moria.moo.mud.org или midgard.moo.mud.org
 <назгулы> на базе например рогалика moria
 <назгулы> с криптовалютами и 12 кольцами власти
 <RoinesRodimop> да
 <назгулы> и игровой нейросетевой интеллект там и назгулов на нём
-}}}
+```
 
-{{{
+```
 ls -al
 итого 24K
 drwxr-xr-x   2 user user 4,0K 2021-08-30 11:12:32 +08 nanoseconds:782402163  .
@@ -855,4 +855,4 @@ Ok
 
 
 1941
-}}}
+```
